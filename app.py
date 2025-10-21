@@ -242,7 +242,7 @@ def main():
         st.image("https://img.icons8.com/fluency/96/000000/voice-recognition.png", width=100)
         st.markdown("## Model Info")
         st.markdown("""
-        - **Accuracy:** 69.98%
+        - **Accuracy:** 71.22%
         - **Model:** 3-Layer MLP
         - **Parameters:** 6.9M
         - **Emotions:** 8 classes
